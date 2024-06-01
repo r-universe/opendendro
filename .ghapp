@@ -1,0 +1,10 @@
+{
+  "id": 51435656,
+  "created_at": "2024-06-01T20:36:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["dplR"]
+}
