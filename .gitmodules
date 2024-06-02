@@ -2,3 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dplR"]
+	path = dplR
+	url = https://github.com/opendendro/dplr
